@@ -1,0 +1,4 @@
+#Introduction#
+
+The sudden outbreak and global spread of COVID-19 represents one of the most profound societal and public health challenges in modern times. The Implementation of strategies such as lockdowns to combat the virus has led to unintended consequences such as a sedentary lifestyle. The Problem of fitness is especially apt for a solution using an application.Enter GS Companion. Our Application Integrates Fitness, Finance, Event Management along with voice output for added convenience. The app can make specific exercise type and duration recommendations based on the daily calorie intake and BMI which gives a definite goal for the user to achieve. The app includes monthly expense tracking and bill reminder in the Finance section. It also includes reminders and event scheduling for event management.
+There is a lot of insight to be gained from data analysis applied to fitness and finance that can aid in the improvement of the user’s health.
