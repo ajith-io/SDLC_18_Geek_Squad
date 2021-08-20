@@ -1,5 +1,5 @@
 # Introduction #
-GS Companion is here to take care of your health and wealth. Enter GS Companion. Our Application Integrates Fitness, Finance, Event Management along with voice output for added convenience. The app can make specific exercise type and duration recommendations based on the daily calorie intake and BMI which gives a definite goal for the user to achieve. The app includes monthly expense tracking and bill reminder in the Finance section. It also includes reminders and event scheduling for event management.
+GS Companion is here to take care of your health and wealth. Our Application Integrates Fitness, Finance, Event Management along with voice output for added convenience. The app can make specific exercise type and duration recommendations based on the daily calorie intake and BMI which gives a definite goal for the user to achieve. The app includes monthly expense tracking and bill reminder in the Finance section. It also includes reminders and event scheduling for event management.
 There is a lot of insight to be gained from data analysis applied to fitness and finance that can aid in the improvement of the user’s health.
 In this user can manage his health schedule his finance system and also his events.
 
@@ -44,5 +44,8 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 |`L_06` | `H_05` | When you select A.Set a Reminder |
 |`L_07` | `H_05` | When you select B.Check Calendar |
 
+# SWOT Analysis #
+
+![swot](https://github.com/ajith-io/SDLC_18_Geek_Squad/blob/main/1_Requirements/SWOT%20Analysis.png)
 
 
