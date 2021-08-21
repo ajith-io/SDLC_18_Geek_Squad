@@ -5,10 +5,11 @@
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  `H_01`       |Get Proper User Details |  String and integer | User detail stored as string and interger|String and integer stored|Requirement based |
-|  `H_02`       |After signing in| String value as mentioned in menu |shows main menu |Select you option A.Fitness B.Finanace C.Event calendar |Scenario based |
-|`H_03`  | If you select A.Fitness |**A**|Display another menu |Display A.Exercise B.Calorie Track | Requirement based|
-|`H_04`  | If you select B.Finance |**B**|Display another menu |Display A.Revenue B.Expense C.Summary | Requirement based|
-|`H_05`  | If you select C.Events Calendar |**C**| Display another menu| Display A.Set Reminder B.Check Calendar| Requirement based|
+|  `H_02`       |After signing in| String value as mentioned in menu |shows main menu |Select you option A.Fitness B.Finanace C.Event calendar D: Exit the assistant |Scenario based |
+|`H_03`  | If you select A.Fitness |**A**|Display another menu |Display A.Exercise B.Calorie Track C: Exit the assistant | Requirement based|
+|`H_04`  | If you select B.Finance |**B**|Display another menu |Display A.Revenue B.Expense C.Summary D:Exit the assistant  | Requirement based|
+|`H_05`  | If you select C.Events Calendar |**C**| Display another menu| Display A.Set Reminder B.Check Calendar | Requirement based|
+|`H_05`  | If you select C.Events Calendar |**C**| Display another menu| Display A.Set Reminder B.Check Calendar C: | Requirement based|
 
 ## Low level test plan
 
