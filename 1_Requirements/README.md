@@ -12,17 +12,44 @@ A calendar is a basic necessity in our day to day activities. This project is a 
 ## Finance ##
 This is the mini project in c programming, Telecom Billing System.In which we can perform and manage billing operations like they do in general telecom companies. In this program, we can add records with the name, phone, number, and amount of payment. here we can also modify, view, search and delete existing records. Here, we can make payments by providing your phone number instead of name. All data added or modified are recorded in a file. This project will teach you how to add, list, edit, search and delete records using file handling.
 
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+**To any person who is health conscious and who plans the events and finance**
+
+## What:
+
+**This is a productivity tool which will take users input and make a workout plan acoordingly then it will guide them to perfome the workouts with proper timing feature, plan their montly finances, and events**
+
+## When:
+
+**Anytime required for the user**
+
+## Where:
+
+**This program can run in just the command line environment, which now every major OS supports.**
+
+## How:
+
+**User needs to select/input the options in the CL and then use the required function**
+
+
+
 # Features #
   Features            | Description
 -------------------| -----------------------------------------
 `User section`     | A user can create his data.
 `Database`         | It stores values for future reference.
-`Voice output`     |  Asking the info through audio.
-`Fitness`          |  Personalised workout plan according to the BMI and user input.
-`Finance`          | You can find your expenses.
+`Voice output`     | Audio response for the input when ever required.
+`Fitness`          | Personalised workout plan according to the BMI.
+`Finance`          | User can store and track his/her expenses.
 `Event and calender`| We can book any event and we can view in the calender.
- # Test Plan #
-## High level plan ##
+`Tracking`| Tracking the user's progress in his fitness journey (Including the calorie tracker).
+ 
+ 
+# Detailed Requirements #
+## High level ##
 
 | **Test ID** | **Description**                                                
 |-------------|--------------------------------------------------------------
@@ -43,6 +70,9 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 |`L_05` | `H_04` | When you select C.Summary |
 |`L_06` | `H_05` | When you select A.Set a Reminder |
 |`L_07` | `H_05` | When you select B.Check Calendar |
+
+
+
 
 # SWOT Analysis #
 
