@@ -51,13 +51,19 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 # Detailed Requirements #
 ## High level ##
 
-| **Test ID** | **Description**                                                
-|-------------|--------------------------------------------------------------
-|  `H_01`       |Get Proper User Details | 
-|  `H_02`       |After signing in| 
-|`H_03`  | If you select A.Fitness |
-|`H_04`  | If you select B.Finance |
-|`H_05`  | If you select C.Events Calendar |
+| ID_1 | ID_2 | ID    | DESCRIPTION                                                                                                                                | STATUS | MEMBER         |
+| ---- | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | -------------- |
+| HLR  | 1    | HLR1  | USER LOGIN AND REGISTRATION                                                                                                                | FUTURE | POOJA          |
+| HLR  | 2    | HLR2  | MENU (GUI/CL)                                                                                                                              | FUTURE | PUNEET         |
+| HLR  | 3    | HLR3  | FITNESS - A BMI CALCULATOR WHICH GET IT'S VALUE FROM THE DATABASE, PROCESS AND CATEGORISE USER INTO ONE OUT OF THE FIVE BODY WEIGHT STATUS | FUTURE | AJITH/GANESH   |
+| HLR  | 4    | HLR4  | FITNESS -  A WORKPLAN CHART ACCORDING TO THE WEIGHT STATUS WITH LIVE COMMAND, LIVE TIMER, WITH AN OPTION TO SKIP AND CONTINUE              | FUTURE | AJITH/GANESH   |
+| HLR  | 5    | HLR5  | FITNESS -  USER PROGRESS TRACKER                                                                                                           | FUTURE | NAAZ           |
+| HLR  | 6    | HLR6  | FITNESS - MEAL CALORIE TRACKER                                                                                                             | FUTURE | VAMSI V        |
+| HLR  | 7    | HLR7  | FINANCE - ADD EXPENCE OR REVENUE                                                                                                           | FUTURE | ANKITA/SUKANYA |
+| HLR  | 8    | HLR8  | FINANCE - VIEW THE SUMMARY                                                                                                                 | FUTURE | ANKITA/SUKANYA |
+| HLR  | 9    | HLR9  | EVENTS - SET THE REMINDER (BILL, MEETINGS ETC)                                                                                             | FUTURE | ANKITA/SUKANYA |
+| HLR  | 10   | HLR10 | EVENTS - VIEW THE REMINDER                                                                                                                 | FUTURE | ANKITA/SUKANYA |
+| HLR  | 11   | HLR11 | DATABASE                                                                                                                                   | FUTURE | KUSHAAL        |
 
 ## Low level plan ##
 
