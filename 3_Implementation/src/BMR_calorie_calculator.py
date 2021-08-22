@@ -5,14 +5,16 @@ def user_info():
     height = int(input('What is your height in inches: '))
 
     if gender == 'male':
-        c1 = 66
-        hm = 6.2 * height
-        wm = 12.7 * weight
+        #Metric formula for men BMR = 66.47 + ( 13.75 × weight in kg ) + ( 5.003 × height in cm ) − ( 6.755 × age in years )
+        c1 = 66.47
+        hm = 5.003 * height
+        wm = 13.75 * weight
         am = 6.76 * age
     elif gender == 'female':
+        #Metric formula for women BMR = 655.1 + ( 9.563 × weight in kg ) + ( 1.85 × height in cm ) − ( 4.676 × age in years )
         c1 = 655.1
-        hm = 4.35 * height
-        wm = 4.7 * weight
+        hm = 1.85 * height
+        wm = 9.563 * weight
         am = 4.7 * age
 
     #BMR = 665 + (9.6 X 69) + (1.8 x 178) – (4.7 x 27)
