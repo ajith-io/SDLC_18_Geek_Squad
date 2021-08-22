@@ -1,8 +1,9 @@
+##edit this part
 age = int(input('What is your age: '))
 gender = input('What is your gender(male/female?): ')
 weight = int(input('What is your weight: '))
 height = int(input('What is your height in centimeter: ')) 
-#print (bmi_result)
+
 if gender == 'male':
     #Metric formula for men BMR = 66.47 + ( 13.75 × weight in kg ) + ( 5.003 × height in cm ) − ( 6.755 × age in years )
     c1 = 66.47
