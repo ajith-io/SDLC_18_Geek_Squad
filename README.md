@@ -27,9 +27,16 @@
 |`99005846`|Sukanya Deka Deka|
 |`99005838`|Ankita Rajesh Daware|
 
-# Features
-|Feature|Description|
-|----|--|
+# Features #
+  Features            | Description
+-------------------| -----------------------------------------
+`User section`     | A user can create his data.
+`Database`         | It stores values for future reference.
+`Voice output`     | Audio response for the input when ever required.
+`Fitness`          | Personalised workout plan according to the BMI.
+`Finance`          | User can store and track his/her expenses.
+`Event and calender`| We can book any event and we can view in the calender.
+`Tracking`| Tracking the user's progress in his fitness journey (Including the calorie tracker).
 
 # Challenges Faced and How Was It Overcome
 |Challenges|Solutions|
