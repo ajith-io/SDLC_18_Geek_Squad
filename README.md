@@ -7,7 +7,7 @@
 CI | Build | Code Quality | Unity | Git Inspector | 
 ------|----------|-------|--------------|-------
 [![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)
-
+[![Rust](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/rust.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/rust.yml)
 
 # Folder Structure
 | Folder | Description |
