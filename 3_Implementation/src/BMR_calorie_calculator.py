@@ -1,10 +1,12 @@
-
+import databas as d
 def bmi_value():
     ##edit this part
     age = int(input('What is your age: '))
     gender = input('What is your gender(male/female?): ')
     weight = int(input('What is your weight: '))
     height = int(input('What is your height in centimeter: ')) 
+    d.insert(height,weight)
+
     if gender == 'male':
         #Metric formula for men BMR = 66.47 + ( 13.75 × weight in kg ) + ( 5.003 × height in cm ) − ( 6.755 × age in years )
         c1 = 66.47
@@ -46,7 +48,7 @@ def bmi_value():
         elif gain == 2:
             calories = activity_level + 1000
     print('Your BMI is', bmi ,'in order to ', goals, 'weight, your daily caloric goals should be', int(calories), '!')
-    return (int(bmi))
+    #return (int(bmi))
 
 #can remove this after integration
 

@@ -1,4 +1,5 @@
 import pyttsx3
+import databas as d
 import time
 def printf(str):
     engine = pyttsx3.init()
@@ -19,7 +20,37 @@ def timer_30():
             printf("Half Time")
         printf(str(x+1))     
         sleep(1)
+def assign():
+    height=d.fetchheight()
+    weight=d.fetchweight()
+    print(height)
+    print(weight)
+
+    bmi = weight/((height/100)**2)
+    x=bmi
+    print(x)
+
+    if(x<18.5):
+        printf("Underweight")
+        workout_1()
+    elif (x>=18.5 and x<=24.9):
+        printf(" Normal")
+        workout_2()        
+    
+    elif (x>=25.0 and x<=29.9):
+        printf(" Overweight")
+        workout_3()
         
+    
+    elif (x>=30.0 and x<=34.9):
+        printf("Obese")
+        workout_4()
+        
+    elif(x>34.9):
+        printf("Extremely obese") 
+        workout_5()
+    else:
+        printf("We got only 1 to 5 workout plans")
     
 def workout_1():
     printf(" Generating a special workout plan ")
