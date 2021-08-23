@@ -3,6 +3,8 @@
 
 # SDLC Activity Based Learning
 
+[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)
+
 # Folder Structure
 | Folder | Description |
 |--------|-------------|
