@@ -50,32 +50,45 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
  
 # Detailed Requirements #
 ## High level ##
-
-| ID_1 | ID_2 | ID    | DESCRIPTION                                                                                                                                | STATUS | MEMBER         |
-| ---- | ---- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | -------------- |
-| HLR  | 1    | HLR1  | USER LOGIN AND REGISTRATION                                                                                                                | FUTURE | POOJA          |
-| HLR  | 2    | HLR2  | MENU (GUI/CL)                                                                                                                              | FUTURE | PUNEET         |
-| HLR  | 3    | HLR3  | FITNESS - A BMI CALCULATOR WHICH GET IT'S VALUE FROM THE DATABASE, PROCESS AND CATEGORISE USER INTO ONE OUT OF THE FIVE BODY WEIGHT STATUS | FUTURE | AJITH/GANESH   |
-| HLR  | 4    | HLR4  | FITNESS -  A WORKPLAN CHART ACCORDING TO THE WEIGHT STATUS WITH LIVE COMMAND, LIVE TIMER, WITH AN OPTION TO SKIP AND CONTINUE              | FUTURE | AJITH/GANESH   |
-| HLR  | 5    | HLR5  | FITNESS -  USER PROGRESS TRACKER                                                                                                           | FUTURE | NAAZ           |
-| HLR  | 6    | HLR6  | FITNESS - MEAL CALORIE TRACKER                                                                                                             | FUTURE | VAMSI V        |
-| HLR  | 7    | HLR7  | FINANCE - ADD EXPENCE OR REVENUE                                                                                                           | FUTURE | ANKITA/SUKANYA |
-| HLR  | 8    | HLR8  | FINANCE - VIEW THE SUMMARY                                                                                                                 | FUTURE | ANKITA/SUKANYA |
-| HLR  | 9    | HLR9  | EVENTS - SET THE REMINDER (BILL, MEETINGS ETC)                                                                                             | FUTURE | ANKITA/SUKANYA |
-| HLR  | 10   | HLR10 | EVENTS - VIEW THE REMINDER                                                                                                                 | FUTURE | ANKITA/SUKANYA |
-| HLR  | 11   | HLR11 | DATABASE                                                                                                                                   | FUTURE | KUSHAAL        |
+|ID_1|ID_2|ID  |DESCRIPTION                 |STATUS     |
+|----|----|----|----------------------------|-----------|
+|HLR |1   |HLR1|USER LOGIN AND REGISTRATION |IMPLEMENTED|
+|HLR |2   |HLR2|MENU (GUI/CL)               |IMPLEMENTED|
+|HLR |3   |HLR3|FITNESS TRACKER             |IMPLEMENTED|
+|HLR |4   |HLR4|FINANCE TRACKER             |IMPLEMENTED|
+|HLR |5   |HLR5|EVENTS AND REMINDER         |IMPLEMENTED|
+|HLR |6   |HLR6|DATABASE                    |IMPLEMENTED|
 
 ## Low level plan ##
 
-**Test ID** | **HLT ID** | **Description** | 
-|--------|--------|-------------
-|`L_01`  |`H_03`  | When you select A.Exercise |
-|`L_02` | `H_03` | When you select B.Claorie Track |
-|`L_03` | `H_04` | When you select A.Revenue |
-|`L_04` | `H_04` | When you select B.Expense |
-|`L_05` | `H_04` | When you select C.Summary |
-|`L_06` | `H_05` | When you select A.Set a Reminder |
-|`L_07` | `H_05` | When you select B.Check Calendar |
+|ID_1|ID_2|ID  |HLR_ID                      |DESCRIPTION|STATUS                         |
+|----|----|----|----------------------------|-----------|-------------------------------|
+|LLR |1   |LLR1|HLR1                        |WELCOME MESSAGE WITH RESPECT TO SYSTEM TIME|IMPLEMENTED                    |
+|LLR |2   |LLR2|HLR1                        |IN CREATE ACCOUNT TO CHECK IF USER NAME ALREADY EXIST|IMPLEMENTED                    |
+|LLR |3   |LLR3|HLR1                        |TO CHECK IF THE PASSWORD IS OF MINIMUM LENGTH OF 8|IMPLEMENTED                    |
+|LLR |4   |LLR4|HLR1                        |TO CHECK IF THE NEW PASSWORD MATCHES WITH CONFIRM PASSWORD|IMPLEMENTED                    |
+|LLR |5   |LLR5|HLR1                        |IN LOGIN TO SEE IF THE USER HAS ENTERED CORRECT PASSWORD |IMPLEMENTED                    |
+|LLR |6   |LLR6|HLR1                        |TO CHECK IF USERNAME EXIST WHILE LOGGING IN |IMPLEMENTED                    |
+|LLR |7   |LLR7|HLR 2                       |MENU DISPLAY|IMPLEMENTED                    |
+|LLR |8   |LLR8|HLR 2                       |ASKING USER TO SELECT THE TRACK |IMPLEMENTED                    |
+|LLR |9   |LLR9|HLR 2                       |TO INVOKE THE FUNCTION AS PER THE SELECTED OPTION|IMPLEMENTED                    |
+|LLR |10  |LLR10|HLR3                        |TO TAKE THE LOGIN ID AND PASSWORD FOR THE MYFINESSPAL APP|IMPLEMENTED, BUT NOT INTEGRATED|
+|LLR |11  |LLR11|HLR3                        |TO FETCH THE USER MEAL DETAILS FROM THE MYFITNESSPAL API|IMPLEMENTED, BUT NOT INTEGRATED|
+|LLR |12  |LLR12|HLR3                        |TO DISPLAY THE VALUES|IMPLEMENTED, BUT NOT INTEGRATED|
+|LLR |13  |LLR13|HLR3                        |TO CALCULATE THE  BMI VALUE OF THE USER|IMPLEMENTED                    |
+|LLR |14  |LLR14|HLR3                        |TO CALCULATE THE BMR VALUE OF THE USER|IMPLEMENTED                    |
+|LLR |15  |LLR15|HLR3                        |SUGGEST THE WORKOUT BASED ON THE BMI VALUE|IMPLEMENTED                    |
+|LLR |16  |LLR16|HLR3                        |VOICE OUTPUT FOR THE EXERCISES AND TIMER|IMPLEMENTED                    |
+|LLR |17  |LLR17|HLR4                        |TO TAKE THE REVENUE DETAILS|IMPLEMENTED                    |
+|LLR |18  |LLR18|HLR4                        |TO TAKE THE EXPENSE DETAILS|IMPLEMENTED                    |
+|LLR |19  |LLR19|HLR4                        |TO SUMMARIZE THE BUDGET|IMPLEMENTED                    |
+|LLR |20  |LLR20|HLR5                        |EVENTS-VIEW THE REMINDER|IMPLEMENTED                    |
+|LLR |21  |LLR21|HLR5                        |TO SET THE REMINDER |IMPLEMENTED                    |
+|LLR |22  |LLR22|HLR5                        |TO VIEW THE CALANDER|IMPLEMENTED                    |
+|LLR |23  |LLR23|HLR6                        |TO INTEGRATE THE DATABASE FOR ALL THE ABOVE |IMPLEMENTED                    |
+|LLR |24  |LLR24|HLR6                        |TO SET THE VALUES IN THE DATABASE|IMPLEMENTED                    |
+|LLR |25  |LLR25|HLR6                        |TO FETCH THE VALUES IN THE DATABASE|IMPLEMENTED                    |
+
 
 
 
