@@ -48,7 +48,7 @@ def register():
             w.printf("    Success! "+ my_name +" Your Account has been created successfully")
             w.printf("    Now login to your account\n")
             home()
-
+            
 def access():
     my_db = open("file.txt", "r")
     my_name = input("   Username:")
