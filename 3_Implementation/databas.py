@@ -36,7 +36,7 @@ def insert(height, weight):
     with con:
         sql = 'INSERT OR REPLACE INTO USER (id, name, age, weight, Height) values(?, ?, ?, ?, ?)'
     data = [
-        (1 , 'Ajith', 21, weight, height)
+        (0 , " ", " ", weight, height)
     ]
  
     with con:

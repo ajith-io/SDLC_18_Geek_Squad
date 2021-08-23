@@ -13,7 +13,7 @@ try:
         bmi.bmi_value()
         w.assign()
     elif option==2:
-        budget.Budget()
+        budget.start()
     elif option==3:
         r.reminder()
     else:

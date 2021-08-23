@@ -45,7 +45,7 @@ def register():
             my_db = open("file.txt", "a")
             my_db.write(my_name+", "+my_new_password+"\n")
             my_db.close()
-            w.printf("    Sucess! "+ my_name +" Your Account has been created sucessfully")
+            w.printf("    Success! "+ my_name +" Your Account has been created successfully")
             w.printf("    Now login to your account\n")
             home()
 

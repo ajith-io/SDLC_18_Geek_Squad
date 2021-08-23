@@ -1,10 +1,11 @@
 import databas as d
+from src import workoutplan as w
 def bmi_value():
     ##edit this part
-    age = int(input('What is your age: '))
-    gender = input('What is your gender(male/female?): ')
-    weight = int(input('What is your weight: '))
-    height = int(input('What is your height in centimeter: ')) 
+    age = int(input(w.printf(('What is your age: '))))
+    gender = input(w.printf(('What is your gender(male/female?): ')))
+    weight = int(input(w.printf(('What is your weight: '))))
+    height = int(input(w.printf(('What is your height in centimeter: '))))
     d.insert(height,weight)
 
     if gender == 'male':
@@ -24,7 +25,7 @@ def bmi_value():
     #BMR = 665 + (9.6 X 69) + (1.8 x 178) – (4.7 x 27)
     bmr_result = c1 + hm + wm - am
 
-    activity_level = input('What is your activity level (none, light, moderate, heavy, or extreme): ')
+    activity_level = input(w.printf(('What is your activity level (none, light, moderate, heavy, or extreme): ')))
     if activity_level == 'none':
         activity_level = 1.2 * bmr_result
     elif activity_level == 'light':
@@ -36,13 +37,13 @@ def bmi_value():
     elif activity_level == 'extreme':
         activity_level = 1.9 * bmr_result
 
-    goals = input('Do you want to lose, maintain, or gain weight: ')
+    goals = input(w.printf(('Do you want to lose, maintain, or gain weight: ')))
     if goals == 'lose':
         calories = activity_level - 500
     elif goals == 'maintain':
         calories = activity_level
     elif goals == 'gain':
-        gain = int(input('Gain 1 or 2 pounds per week? Enter 1 or 2: '))
+        gain = int(input(w.printf(('Gain 1 or 2 pounds per week? Enter 1 or 2: '))))
         if gain == 1: 
             calories = activity_level + 500
         elif gain == 2:
