@@ -19,14 +19,12 @@ def timer_30():
             printf("Half Time")
         printf(str(x+1))     
         sleep(1)
+        
     
-def assign(BMI,BMR):
-#This function assigns a workout plan to the user according to thier BMI and BMR 
-    pass
 def workout_1():
     printf(" Generating a special workout plan ")
     sleep(2)
-    printf("Its a special workout plan for under weight. \n lets begin");
+    printf("Its a special workout plan for under weight. \n lets begin")
     sleep(1)
     printf("JUMPING JACKS")
     sleep(1)
@@ -397,20 +395,6 @@ def workout_5():
     sleep(1)
     printf("Stay healthy Cheers")
 
-try:
-    select = int(input(printf("Select a workout plan")))
-    if(select==1):
-        workout_1()
-    elif(select==2):
-        workout_2()
-    elif(select==3):
-        workout_3()
-    elif(select==4):
-        workout_4()
-    elif(select==5):
-        workout_5()
-    else:
-        printf("We got only 1 to 5 workout plans")
 
-except:
-    printf("We got only 1 to 5 workout plans")
+
+

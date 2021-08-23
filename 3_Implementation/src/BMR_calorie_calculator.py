@@ -1,3 +1,4 @@
+
 def bmi_value():
     ##edit this part
     age = int(input('What is your age: '))
@@ -48,5 +49,4 @@ def bmi_value():
     return (int(bmi))
 
 #can remove this after integration
-x = bmi_value()
-print (x)
+
