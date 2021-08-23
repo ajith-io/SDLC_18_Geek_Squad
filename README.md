@@ -4,7 +4,7 @@
 # SDLC Activity Based Learning
 CI | Build | Code Inspector | Unity | 
 ------|----------|-------|--------------|
-[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)||![Code Quality](https://www.code-inspector.com/project/26754/score/svg).github/workflows/build.yml
+[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)||![Code Quality](https://www.code-inspector.com/project/26754/score/svg)
 
 # Folder Structure
 | Folder | Description |
