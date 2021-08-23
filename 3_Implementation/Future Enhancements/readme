@@ -1,10 +1,11 @@
-
 # Code output using the MyfitnessApi
 
-##The user's daily
+## The user's daily
 * Exercise details
 * meal calorie details can be fetched
 * Water consumption details 
 * Required measures to reach their goals 
 
 Check the following image for the output
+
+	![output](https://github.com/ajith-io/SDLC_18_Geek_Squad/blob/test/3_Implementation/Future%20Enhancements/code%20output.png)
