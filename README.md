@@ -2,7 +2,7 @@
 # ✨ ... GS Companion 🤖 ... ✨
 
 # SDLC Activity Based Learning
-CI | Build | Code Quality | Unity | Git Inspector | 
+CI | Build | Code Inspector | Unity | Git | 
 ------|----------|-------|--------------|-------
 [![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)||![Code Quality](https://www.code-inspector.com/project/26754/score/svg)
 
