@@ -45,4 +45,4 @@ class Budget(object):
         os.system('cls')
         self.main()
 
-Budget()
+

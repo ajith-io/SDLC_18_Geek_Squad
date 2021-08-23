@@ -1,30 +1,24 @@
 from src import workoutplan as w
 from src import BMR_calorie_calculator as bmi
-from src import menu as m
-import databas as d
+from src import menu as m 
+from src import budget
+from src import reminder as r
+#import databas as d
 from src import signinlogin as si
 try:
     si.start()
     si.home()
     option=m.menu()
-    if option==1:
-    
-        b=m.fitness_menu()
-        if(b==1):
-            bmi.bmi_value()
-            w.assign()
-
-
+    if option==1:    
+        bmi.bmi_value()
+        w.assign()
     elif option==2:
-        
-        m.finance_menu()
+        budget.Budget()
     elif option==3:
-        
-        m.event_calender_menu()
+        r.reminder()
     else:
-        w.printf("invalid option")    
-    
+        w.printf("Thanks have a nice day")      
     
 except:
-    w.printf("We got only 1 to 5 workout plans")
+    w.printf("Wrong input")
 
