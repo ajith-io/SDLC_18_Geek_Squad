@@ -24,8 +24,8 @@ Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_a
 |`7_Other`|Other Project related files|
 
 # Contributors List
-| PS No. | Name |Features| Issues Raised | Issues Resolved| No. of Test Cases|Test Cases passes|
-|---------|-----|------|-----|----|---|----|
+| PS No. | Name |
+|---------|-----|
 |`99005812`| K C Pooja|
 |`99005833`|Ajith V| 
 |`99005844`|Firdous Naaz Sheikh|
