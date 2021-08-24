@@ -48,7 +48,7 @@ def bmi_value():
             calories = activity_level + 500
         elif gain == 2:
             calories = activity_level + 1000
-    print('Your BMI is', bmi ,'in order to ', goals, 'weight, your daily caloric goals should be', int(calories), '!')
+    w.printf('Your BMI is', bmi ,'in order to ', goals, 'weight, your daily caloric goals should be', int(calories), '!')
     #return (int(bmi))
 
 #can remove this after integration
