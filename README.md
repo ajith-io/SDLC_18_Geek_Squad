@@ -29,7 +29,7 @@ Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_a
 |---------|-----|----------|
 |`99005812`| K C Pooja| USER LOGIN AND REGISTRATION |
 |`99005833`|Ajith V| FITNESS, VOICE OUTPUT|
-|`99005844`|Firdous Naaz Sheikh| SER PROGRESS TRACKER |
+|`99005844`|Firdous Naaz Sheikh| PROGRESS TRACKER |
 |`99005811`|Anumula Sai Ganesh| FITNESS|
 |`99005855`|Puneet Kumar| MENU (GUI/CL) |
 |`99005856`|Vamsi Krishna Varigonda| BMI/BMR CALCULATOR |
