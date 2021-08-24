@@ -6,10 +6,11 @@ CI     |    Code Inspector |
 
 [![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)  ![Code Quality](https://www.code-inspector.com/project/26754/score/svg)
 
-# How To Run
+# Video Instructions to run the project
+## How To Run
 Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad)
 
-# Output Video
+## Output Video
 Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_and_Videos)
 
 # Folder Structure
@@ -24,17 +25,18 @@ Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_a
 |`7_Other`|Other Project related files|
 
 # Contributors List
-| PS No. | Name |
-|---------|-----|
-|`99005812`| K C Pooja|
-|`99005833`|Ajith V| 
-|`99005844`|Firdous Naaz Sheikh|
-|`99005811`|Anumula Sai Ganesh|
-|`99005855`|Puneet Kumar|
-|`99005856`|Vamsi Krishna Varigonda|
-|`99005813`|Kushaal R|
-|`99005846`|Sukanya Deka Deka|
-|`99005838`|Ankita Rajesh Daware|
+| PS No. | Name | Features |  
+|---------|-----|----------|
+|`99005812`| K C Pooja| USER LOGIN AND REGISTRATION |
+|`99005833`|Ajith V| FITNESS, VOICE OUTPUT|
+|`99005844`|Firdous Naaz Sheikh| SER PROGRESS TRACKER |
+|`99005811`|Anumula Sai Ganesh| FITNESS|
+|`99005855`|Puneet Kumar| MENU (GUI/CL) |
+|`99005856`|Vamsi Krishna Varigonda| BMI/BMR CALCULATOR |
+|`99005813`|Kushaal R| DATABASE INTEGRATION |
+|`99005846`|Sukanya Deka Deka| EVENTS |
+|`99005838`|Ankita Rajesh Daware| FINANCE |
+
 
 # Features #
   Features            | Description
@@ -50,3 +52,4 @@ Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_a
 # Challenges Faced and How Was It Overcome
 |Challenges|Solutions|
 |----|------|
+| Integrating the code| We all got together and created function calls for each of the code and then integrated them|
