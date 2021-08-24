@@ -52,3 +52,8 @@ Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_a
 |Challenges|Solutions|
 |----|------|
 | Integrating the code| We all got together and created function calls for each of the code and then integrated them|
+
+# Git Inspector Summary
+
+![git](https://github.com/ajith-io/SDLC_18_Geek_Squad/blob/main/6_Images_and_Videos/git_inspector.JPG)
+
