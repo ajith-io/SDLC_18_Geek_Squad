@@ -69,7 +69,7 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 |LLR |4   |LLR4|HLR1                        |TO CHECK IF THE NEW PASSWORD MATCHES WITH CONFIRM PASSWORD|IMPLEMENTED                    |
 |LLR |5   |LLR5|HLR1                        |IN LOGIN TO SEE IF THE USER HAS ENTERED CORRECT PASSWORD |IMPLEMENTED                    |
 |LLR |6   |LLR6|HLR1                        |TO CHECK IF USERNAME EXIST WHILE LOGGING IN |IMPLEMENTED                    |
-|LLR |7   |LLR7|HLR 2                       |MENU DISPLAY|IMPLEMENTED                    |
+|LLR |7   |LLR7|HLR 2                       |OPTIONS DISPLAY TO THE USER |IMPLEMENTED                    |
 |LLR |8   |LLR8|HLR 2                       |ASKING USER TO SELECT THE TRACK |IMPLEMENTED                    |
 |LLR |9   |LLR9|HLR 2                       |TO INVOKE THE FUNCTION AS PER THE SELECTED OPTION|IMPLEMENTED                    |
 |LLR |10  |LLR10|HLR3                        |TO TAKE THE LOGIN ID AND PASSWORD FOR THE MYFINESSPAL APP|IMPLEMENTED, BUT NOT INTEGRATED|
