@@ -1,6 +1,6 @@
 # How to run
 
-Hey there, to run Baymax do the following steps
+Hey there, to run GS_Companion do the following steps
 1) Clone or Download the repository in your system
 2) Navigate to 3_Implementation folder 
 3) Open your terminal here with this path
