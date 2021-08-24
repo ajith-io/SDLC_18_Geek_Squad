@@ -2,7 +2,7 @@
 # ✨ ... GS Companion 🤖 ... ✨
 
 # SDLC Activity Based Learning
-| CI | Code Quality | Git Inspector |
+| CI | Code Quality | Git Inspector |Code coverage|
 |----|--------------|---------------|
 |[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml) | ![Code Quality](https://www.code-inspector.com/project/26754/score/svg) | [![Git Inspector](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml) |[![Code-Coverage](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml)
 
