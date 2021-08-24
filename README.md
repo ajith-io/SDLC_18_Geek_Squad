@@ -2,13 +2,12 @@
 # ✨ ... GS Companion 🤖 ... ✨
 
 # SDLC Activity Based Learning
-| CI | Code Quality | Git Inspector |Code coverage|
+| CI | Code Quality | Git Inspector | Code Coverage |
+|----|--------------|---------------|
+|[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml) | ![Code Quality](https://www.code-inspector.com/project/26754/score/svg) | [![Git Inspector](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml) |[![Code-Coverage](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml) |
 
-|[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml) | ![Code Quality](https://www.code-inspector.com/project/26754/score/svg) | [![Git Inspector](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml) |[![Code-Coverage](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml)
-
-# Video Instructions to run the project
 ## How To Run
-Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad)
+Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/blob/main/3_Implementation/README.md)
 
 ## Output Video
 Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_and_Videos)
