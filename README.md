@@ -6,6 +6,12 @@ CI     |    Code Inspector |
 
 [![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml)  ![Code Quality](https://www.code-inspector.com/project/26754/score/svg)
 
+# How To Run
+Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad)
+
+# Output Video
+Click [here](https://github.com/ajith-io/SDLC_18_Geek_Squad/tree/main/6_Images_and_Videos)
+
 # Folder Structure
 | Folder | Description |
 |--------|-------------|
@@ -21,7 +27,7 @@ CI     |    Code Inspector |
 | PS No. | Name |Features| Issues Raised | Issues Resolved| No. of Test Cases|Test Cases passes|
 |---------|-----|------|-----|----|---|----|
 |`99005812`| K C Pooja|
-|`99005833`|Ajith V|
+|`99005833`|Ajith V| 
 |`99005844`|Firdous Naaz Sheikh|
 |`99005811`|Anumula Sai Ganesh|
 |`99005855`|Puneet Kumar|
