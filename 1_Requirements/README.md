@@ -57,10 +57,35 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 |HLR |5   |HLR5|EVENTS AND REMINDER         |IMPLEMENTED|
 |HLR |6   |HLR6|DATABASE                    |IMPLEMENTED|
 
+##Low level##
 
-
-
-
+|ID_1|ID_2|ID   |DESCRIPTION                                                 |STATUS                     |
+|----|----|-----|------------------------------------------------------------|---------------------------|
+|LLR |1   |LLR1 | WELCOME MESSAGE WITH RESPECT TO SYSTEM TIME                |IMPLEMENTED                |
+|LLR |2   |LLR2 |IN CREATE ACCOUNT TO CHECK IF USER NAME ALREADY EXIST       |IMPLEMENTED                |
+|LLR |3   |LLR3 |TO CHECK IF THE PASSWORD IS OF MINIMUM LENGTH OF 8          |IMPLEMENTED                |
+|LLR |4   |LLR4 |TO CHECK IF THE NEW PASSWORD MATCHES WITH CONFIRM PASSWORD  |IMPLEMENTED                |
+|LLR |5   |LLR5 |IN LOGIN TO SEE IF THE USER HAS ENTERED CORRECT PASSWORD    |IMPLEMENTED                |
+|LLR |6   |LLR6 |TO CHECK IF USERNAME EXIST WHILE LOGGING IN                 |IMPLEMENTED                |
+|LLR |7   |LLR7 |MENU DISPLAY                                                |IMPLEMENTED                |
+|LLR |8   |LLR8 |ASKING USER TO SELECT THE TRACK                             |IMPLEMENTED                |
+|LLR |9   |LLR9 |TO INVOKE THE FUNCTION AS PER THE SELECTED OPTION           |IMPLEMENTED                |
+|LLR |10  |LLR10|TO TAKE THE LOGIN ID AND PASSWORD FOR THE MYFINESSPAL APP   |IMPLEMENTED,BUT NOT INTEGRATED|
+|LLR |11  |LLR11|TO FETCH THE USER MEAL DETAILS FROM THE MYFITNESSPAL API    |IMPLEMENTED,BUT NOT INTEGRATED|
+|LLR |12  |LLR12|TO DISPLAY THE VALUES                                       |IMPLEMENTED,BUT NOT INTEGRATED|
+|LLR |13  |LLR13|TO CALCULATE THE  BMI VALUE OF THE USER                     |IMPLEMENTED                 |
+|LLR |14  |LLR14|TO CALCULATE THE BMR VALUE OF THE USER                      |IMPLEMENTED                 |
+|LLR |15  |LLR15|SUGGEST THE WORKOUT BASED ON THE BMI VALUE                  |IMPLEMENTED                 |
+|LLR |16  |LLR16|VOICE OUTPUT FOR THE EXERCISES AND TIMER                    |IMPLEMENTED                 |
+|LLR |17  |LLR17|TO TAKE THE REVENUE DETAILS                                 |IMPLEMENTED                 |
+|LLR |18  |LLR18|TO TAKE THE EXPENSE DETAILS                                 |IMPLEMENTED                 |
+|LLR |19  |LLR19|TO SUMMARIZE THE BUDGET                                     |IMPLEMENTED                 |
+|LLR |20  |LLR20|EVENTS-VIEW THE REMINDER                                    |IMPLEMENTED                 |
+|LLR |21  |LLR21|TO SET THE REMINDER                                         |IMPLEMENTED                 |
+|LLR |22  |LLR22|TO VIEW THE CALANDER                                        |IMPLEMENTED                 |
+|LLR |23  |LLR23|TO INTEGRATE THE DATABASE FOR ALL THE ABOVE                 |IMPLEMENTED                 |
+|LLR |24  |LLR24|TO SET THE VALUES IN THE DATABASE                           |IMPLEMENTED                 |
+|LLR |25  |LLR25|TO FETCH THE VALUES IN THE DATABASE                         |IMPLEMENTED                 |
 
 
 
