@@ -3,9 +3,6 @@ GS Companion is here to take care of your health and wealth. Our Application Int
 There is a lot of insight to be gained from data analysis applied to fitness and finance that can aid in the improvement of the user’s health.
 In this user can manage his health schedule his finance system and also his events.
 
-## Fitness ##
-The sudden outbreak and global spread of COVID-19 represents one of the most profound societal and public health challenges in modern times. In this Comment, we call attention to the possibility that the societal strategies implemented to oppose COVID-19 might have long-term, negative effects on the Obesity Epidemic. According to a research locking down society to combat COVID-19 creates psychosocial insecurity that may lead to Obesity. Keeping the health concern in mind, Introducing fitness feature in GS Companion which acts as a personal health coach. It’s a simple yet effective program which gets to know about you and plans a home workout plan accordingly, sets a timer and fully guide you towards it.
-
 ## Calender ##
 A calendar is a basic necessity in our day to day activities. This project is a functional calendar which has various uses in the users day to day activities.
 
@@ -44,8 +41,6 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 -------------------| -----------------------------------------
 `User section`     | A user can create his data.
 `Database`         | It stores values for future reference.
-`Voice output`     | Audio response for the input when ever required.
-`Fitness`          | Personalised workout plan according to the BMI.
 `Finance`          | User can store and track his/her expenses.
 `Event and calender`| We can book any event and we can view in the calender.
 `Tracking`| Tracking the user's progress in his fitness journey (Including the calorie tracker).
@@ -57,40 +52,10 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 |----|----|----|----------------------------|-----------|
 |HLR |1   |HLR1|USER LOGIN AND REGISTRATION |IMPLEMENTED|
 |HLR |2   |HLR2|MENU (GUI/CL)               |IMPLEMENTED|
-|HLR |3   |HLR3|FITNESS TRACKER             |IMPLEMENTED|
-|HLR |4   |HLR4|FINANCE TRACKER             |IMPLEMENTED|
-|HLR |5   |HLR5|EVENTS AND REMINDER         |IMPLEMENTED|
-|HLR |6   |HLR6|DATABASE                    |IMPLEMENTED|
+|HLR |3   |HLR3|FINANCE TRACKER             |IMPLEMENTED|
+|HLR |4   |HLR4|EVENTS AND REMINDER         |IMPLEMENTED|
+|HLR |5   |HLR5|DATABASE                    |IMPLEMENTED|
 
-## Low level plan ##
-
-|ID_1|ID_2|ID  |HLR_ID                      |DESCRIPTION|STATUS                         |
-|----|----|----|----------------------------|-----------|-------------------------------|
-|LLR |1   |LLR1|HLR1                        |WELCOME MESSAGE WITH RESPECT TO SYSTEM TIME|IMPLEMENTED                    |
-|LLR |2   |LLR2|HLR1                        |IN CREATE ACCOUNT TO CHECK IF USER NAME ALREADY EXIST|IMPLEMENTED                    |
-|LLR |3   |LLR3|HLR1                        |TO CHECK IF THE PASSWORD IS OF MINIMUM LENGTH OF 8|IMPLEMENTED                    |
-|LLR |4   |LLR4|HLR1                        |TO CHECK IF THE NEW PASSWORD MATCHES WITH CONFIRM PASSWORD|IMPLEMENTED                    |
-|LLR |5   |LLR5|HLR1                        |IN LOGIN TO SEE IF THE USER HAS ENTERED CORRECT PASSWORD |IMPLEMENTED                    |
-|LLR |6   |LLR6|HLR1                        |TO CHECK IF USERNAME EXIST WHILE LOGGING IN |IMPLEMENTED                    |
-|LLR |7   |LLR7|HLR 2                       |OPTIONS DISPLAY TO THE USER |IMPLEMENTED                    |
-|LLR |8   |LLR8|HLR 2                       |ASKING USER TO SELECT THE TRACK |IMPLEMENTED                    |
-|LLR |9   |LLR9|HLR 2                       |TO INVOKE THE FUNCTION AS PER THE SELECTED OPTION|IMPLEMENTED                    |
-|LLR |10  |LLR10|HLR3                        |TO TAKE THE LOGIN ID AND PASSWORD FOR THE MYFINESSPAL APP|IMPLEMENTED, BUT NOT INTEGRATED|
-|LLR |11  |LLR11|HLR3                        |TO FETCH THE USER MEAL DETAILS FROM THE MYFITNESSPAL API|IMPLEMENTED, BUT NOT INTEGRATED|
-|LLR |12  |LLR12|HLR3                        |TO DISPLAY THE VALUES|IMPLEMENTED, BUT NOT INTEGRATED|
-|LLR |13  |LLR13|HLR3                        |TO CALCULATE THE  BMI VALUE OF THE USER|IMPLEMENTED                    |
-|LLR |14  |LLR14|HLR3                        |TO CALCULATE THE BMR VALUE OF THE USER|IMPLEMENTED                    |
-|LLR |15  |LLR15|HLR3                        |SUGGEST THE WORKOUT BASED ON THE BMI VALUE|IMPLEMENTED                    |
-|LLR |16  |LLR16|HLR3                        |VOICE OUTPUT FOR THE EXERCISES AND TIMER|IMPLEMENTED                    |
-|LLR |17  |LLR17|HLR4                        |TO TAKE THE REVENUE DETAILS|IMPLEMENTED                    |
-|LLR |18  |LLR18|HLR4                        |TO TAKE THE EXPENSE DETAILS|IMPLEMENTED                    |
-|LLR |19  |LLR19|HLR4                        |TO SUMMARIZE THE BUDGET|IMPLEMENTED                    |
-|LLR |20  |LLR20|HLR5                        |EVENTS-VIEW THE REMINDER|IMPLEMENTED                    |
-|LLR |21  |LLR21|HLR5                        |TO SET THE REMINDER |IMPLEMENTED                    |
-|LLR |22  |LLR22|HLR5                        |TO VIEW THE CALANDER|IMPLEMENTED                    |
-|LLR |23  |LLR23|HLR6                        |TO INTEGRATE THE DATABASE FOR ALL THE ABOVE |IMPLEMENTED                    |
-|LLR |24  |LLR24|HLR6                        |TO SET THE VALUES IN THE DATABASE|IMPLEMENTED                    |
-|LLR |25  |LLR25|HLR6                        |TO FETCH THE VALUES IN THE DATABASE|IMPLEMENTED                    |
 
 
 
