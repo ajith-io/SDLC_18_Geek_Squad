@@ -52,9 +52,10 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 |----|----|----|----------------------------|-----------|
 |HLR |1   |HLR1|USER LOGIN AND REGISTRATION |IMPLEMENTED|
 |HLR |2   |HLR2|MENU (GUI/CL)               |IMPLEMENTED|
-|HLR |3   |HLR3|FINANCE TRACKER             |IMPLEMENTED|
-|HLR |4   |HLR4|EVENTS AND REMINDER         |IMPLEMENTED|
-|HLR |5   |HLR5|DATABASE                    |IMPLEMENTED|
+|HLR |3   |HLR3|FITNESS                     |IMPLEMENTED|
+|HLR |4   |HLR4|FINANCE TRACKER             |IMPLEMENTED|
+|HLR |5   |HLR5|EVENTS AND REMINDER         |IMPLEMENTED|
+|HLR |6   |HLR6|DATABASE                    |IMPLEMENTED|
 
 
 
@@ -63,3 +64,4 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 
 
 
+z
